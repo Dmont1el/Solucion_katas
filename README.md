@@ -1,2 +1,2 @@
-# mision_1
+# Solucion Katas
 primera misión 
